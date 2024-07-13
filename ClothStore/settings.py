@@ -40,14 +40,14 @@ CORS_ORIGIN_ALLOW_ALL = True
 CSRF_TRUSTED_ORIGINS = [
     
     'http://127.0.0.1:5500',
-    'https://clothstore-rfji.onrender.com',
+    'https://clothstore-bgih.onrender.com',
     'https://*.127.0.0.1'
     'http://127.0.0.1:8000',
     'https://*.127.0.0.1',
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://clothstore-rfji.onrender.com',
+    'https://clothstore-bgih.onrender.com',
     'https://*.127.0.0.1',
     'http://127.0.0.1:8000',
     'http://127.0.0.1:5500',
